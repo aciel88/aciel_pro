@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kr-aciel",
+  "private_key_id": "f5723688bf5b4aa121f70fa822317ad39da4cc67",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCxi8aV4T0iogvt\nxEMw2rcFJ4e75/HOm2ePQ63nNu3ez1nfXV2EXm8ONaiCZTtPyMpz1BpAKyw3hxYr\nXiBDw23+0Jr8gFemvcKMfviue2+XwAg5TF0oG0wvBN/7d15CRIX/kSkZL4y7x7wf\nNFzprn5jzsxQbP24EeHMTcheESrqRnTZQjN+Cd57dnz7GAQap+uOokMs4YPzSGcZ\nWnHmaCoMKQZ5xGlGsKR4gQfDvaLlbFyzQnVACT9LWifvRhe3mRwpDvaiHNpDz2D1\n27Txw3GQFxFdMaF51DdgNL+73YQOGxeV5u8NccdaRMRpVPiHZBWlDBYd/bNQcTrg\n2IzarAKtAgMBAAECggEAAfO8nzpkeR2Ut2yIbk45UYAMDW+1tg4eOV/iRHbTSiUA\n6/alsSZRzI7Ewvf7HUBQfhs/ehG2Tr8hfGm5q2B+tIqHxSSq9p5eXKmrA3JkkEhJ\nYSWdOb1gz1gbhTMlpZhOtW7uAwlzX9G/hgzhVlvXpsS1mTzHQfG09dqr8LzVTIhj\n8w3pwlmTCEi17U8Rincz8QGXblqiS08FuZbmNFwW4Z7spCSewhZaeTJe1kzU1LS4\nvcSHa7UBCXDo4ynkcofwHpGhDtKBcSdNKICFiu9L9dzCsaTz3yzFUgRdeckPMAX8\npUUBgzeySEzAPyB0CDUVKnR2XFdYC+EqaQ3nbOvlgQKBgQDcqquSXomHRNYZhGsn\nJo8HcOJfNuAVYc9wC3wIHNxSv4wBAVqDaDIRPAWJTgVZGKM94vL3d9XjkMByw8xx\nndzrMQ61+XuZyLjGd99Zrht5mRzpOXw/+4TwPyocxvl+qvoikTq/+U66FoyAa3pS\nCzRo6cMC5JLeg7Mm6Egv6YaShQKBgQDN+YyYgMdPcptW+Kf+T8xP15JClacQSfM3\nzRa4neU7ytry6+Lg2NI4ci8mHR7qckyQocZw6IgoG1r2G6rqkZRFZQHOZ54c3xzj\nPaSJip2Z9riWvU/xymoaSaeLDI4A8ToYm1S2NMxw8gu2iN9qXIaviPf8Z4E6YR7p\n+HPFTVosCQKBgQCX5ry4w280uMQRSMBicP6ghqquFJ5o2a3sWVuGUiewpr7/qije\nsIlWp9S/0f+Id5dX8LSEee+4+VohJnvD8oGzPU/9IMJe+HeJ19beayXqrOXj/nhz\nqva2UyTwLmBtO9F4njStFjeFjiQl+tZ3R9NKLTDa+vHHTy2yKNAYe07x6QKBgEg5\nLLd80GZnRVjlr+JYkMeeS0bVutLXW1VBsKnjk7G3m7Z6R/+Xh38LasTuiRykH3zH\nfRGyN6v4i5iocvH1QgxjMpLxeludUD/OKZeg50pJXMhecV3TIAk/smPrbw+dhkWC\nkd2h/d3MwZarv8tHzmJWoL38fS+/Rlu8JrwUN34hAoGBANNF1KfVxlbZrv9ETcP3\nwUOGjKcZRGWS4tjUgM0jztbal4Cox95K5trmbKa8cOW4FADV3+igouX0/UEn7Jey\n28EDdLSv5W29XzO3mwONffdjbtd9iRIVzte/6bGuqOyKviamwc/wh2bNdtxYiMeK\nWD1iivbN8JIKAdARy4Y4Lqbg\n-----END PRIVATE KEY-----\n",
+  "client_email": "reservation@kr-aciel.iam.gserviceaccount.com",
+  "client_id": "103713702888040046088",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/reservation%40kr-aciel.iam.gserviceaccount.com"
+}
